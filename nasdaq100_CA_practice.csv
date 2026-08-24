@@ -1,0 +1,54 @@
+symbol,name,headQuarter,dateFirstAdded,cik,founded
+AAPL,Apple Inc.,"Cupertino, CA",,0000320193,1976-04-01
+ABNB,Airbnb,"San Francisco, CA",,0001559720,2008-08-01
+ADBE,Adobe Inc.,"San Jose, CA",,0000796343,1982-12-01
+ADI,"Analog Devices, Inc.","Wilmington, MA",,0000006281,1965-01-01
+AMAT,"Applied Materials, Inc.","Santa Clara, CA",,0000006951,1967-01-01
+AMD,"Advanced Micro Devices, Inc.","Santa Clara, CA",,0000002488,1969-05-01
+AMGN,Amgen Inc.,"Thousand Oaks, CA",,0000318154,1980-01-01
+ANSS,"ANSYS, Inc.","Canonsburg, PA",,0001013462,1970-01-01
+APP,AppLovin Corporation,"Palo Alto, CA",,0001751008,2012-01-01
+ARM,Arm Holdings plc,"Cambridge, UK",,0001973239,1990-01-01
+ASML,ASML Holding N.V.,"Veldhoven, Netherlands",,0000937966,1984-01-01
+AVGO,Broadcom Inc.,"Palo Alto, CA",,0001730168,1961-01-01
+AXON,"Axon Enterprise, Inc.","Scottsdale, AZ",,0001069183,1993-01-01
+BKNG,Booking Holdings Inc.,"Norwalk, CT",,0001075531,1997-01-01
+CDNS,"Cadence Design Systems, Inc.","San Jose, CA",,0000813672,1988-01-01
+CDW,CDW Corporation,"Lincolnshire, IL",,0001402057,1984-01-01
+CEG,Constellation Energy Corporation,"Baltimore, MD",,0001868275,2022-01-01
+CHTR,"Charter Communications, Inc.","Stamford, CT",,0001091667,1993-01-01
+CMCSA,Comcast Corporation,"Philadelphia, PA",,0001166691,1963-01-01
+COST,Costco Wholesale Corporation,"Issaquah, WA",,0000909832,1983-01-01
+CPRT,"Copart, Inc.","Dallas, TX",,0000900075,1982-01-01
+CRWD,"CrowdStrike Holdings, Inc.","Austin, TX",,0001535527,2011-01-01
+CSCO,"Cisco Systems, Inc.","San Jose, CA",,0000858877,1984-01-01
+CSGP,"CoStar Group, Inc.","Arlington, VA",,0001057352,1987-01-01
+CTAS,Cintas Corporation,"Mason, OH",,0000723254,1968-01-01
+CTSH,Cognizant Technology Solutions,"Teaneck, NJ",,0001058290,1994-01-01
+DASH,"DoorDash, Inc.","San Francisco, CA",,0001792789,2013-01-01
+DDOG,"Datadog, Inc.","New York, NY",,0001561550,2010-01-01
+DXCM,"DexCom, Inc.","San Diego, CA",,0001093557,1999-01-01
+EA,Electronic Arts Inc.,"Redwood City, CA",,0000712515,1982-05-01
+EXC,Exelon Corporation,"Chicago, IL",,0001109357,2000-01-01
+FANG,"Diamondback Energy, Inc.","Midland, TX",,0001539838,2007-01-01
+FAST,Fastenal Company,"Winona, MN",,0000815556,1967-01-01
+FTNT,"Fortinet, Inc.","Sunnyvale, CA",,0001262039,2000-01-01
+GILD,"Gilead Sciences, Inc.","Foster City, CA",,0000882095,1987-01-01
+GOOG,Alphabet Inc.,"Mountain View, CA",,0001652044,1998-01-01
+GOOGL,Alphabet Inc.,"Mountain View, CA",,0001652044,1998-01-01
+HON,Honeywell International Inc.,"Charlotte, NC",,0000779152,1906-01-01
+IDXX,"IDEXX Laboratories, Inc.","Westbrook, ME",,0000874710,1983-01-01
+ILMN,"Illumina, Inc.","San Diego, CA",,0001110803,1998-01-01
+INTC,Intel Corporation,"Santa Clara, CA",,0000050863,1968-07-18
+INTU,Intuit Inc.,"Mountain View, CA",,0000896878,1983-01-01
+ISRG,"Intuitive Surgical, Inc.","Sunnyvale, CA",,0001035267,1995-01-01
+KLAC,KLA Corporation,"Milpitas, CA",,0000319201,1975-01-01
+LIN,Linde plc,"Woking, UK",,0001707925,1879-01-01
+LRCX,Lam Research Corporation,"Fremont, CA",,0000707549,1980-01-01
+MAR,"Marriott International, Inc.","Bethesda, MD",,0001048286,1927-01-01
+MCHP,Microchip Technology Inc.,"Chandler, AZ",,0000827054,1989-01-01
+MDB,"MongoDB, Inc.","New York, NY",,0001441816,2007-01-01
+META,"Meta Platforms, Inc.","Menlo Park, CA",,0001326801,2004-01-01
+MRVL,"Marvell Technology, Inc.","Wilmington, DE",,0001835632,1995-01-01
+MSFT,Microsoft Corporation,"Redmond, WA",,0000789019,1975-04-04
+MU,"Micron Technology, Inc.","Boise, ID",,0000723125,1978-01-01
